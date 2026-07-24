@@ -59,7 +59,7 @@ export async function upsertChunks(
   const points = chunks.map((chunk) => ({
     id: chunk.id,
     vector: chunk.vector,
-    payload: chunk.payload as Record<string, unknown>,
+    payload: chunk.payload as unknown as Record<string, unknown>,
   }));
 
   await client.upsert(COLLECTION_NAME, {

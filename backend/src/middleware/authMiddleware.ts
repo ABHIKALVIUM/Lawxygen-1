@@ -1,9 +1,19 @@
 import { Request, Response, NextFunction } from 'express';
 import { verifyAccessToken, JWTPayload } from '../utils/jwt';
 
-export interface AuthRequest extends Request {
-  user?: JWTPayload;
+declare global {
+  namespace Express {
+    interface User {
+      userId?: string;
+      id?: string;
+      email?: string;
+      name?: string;
+      avatar_url?: string;
+    }
+  }
 }
+
+export type AuthRequest = Request;
 
 export const authMiddleware = (
   req: AuthRequest,
