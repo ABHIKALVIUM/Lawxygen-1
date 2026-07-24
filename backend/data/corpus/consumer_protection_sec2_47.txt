@@ -1,0 +1,21 @@
+---
+doc_id: consumer_protection_sec2_47
+citation: Consumer Protection Act, 2019, Section 2(47)
+source_type: bare_act
+source_url: https://www.indiacode.nic.in/show-data?actid=AC_CEN_5_23_00005_201935_1568205244569&sectionId=40939&sectionno=2&orderno=2
+---
+2(47) "unfair trade practice" means a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice including any of the following practices, namely:—
+(i) making any statement, whether orally or in writing or by visible representation including by means of electronic record, which—
+(a) falsely represents that the goods are of a particular standard, quality, quantity, grade, composition, style or model;
+(b) falsely represents that the services are of a particular standard, quality or grade;
+(c) falsely represents any re-built, second-hand, renovated, reconditioned or old goods as new goods;
+(d) represents that the goods or services have sponsorship, approval, performance, characteristics, accessories, uses or benefits which such goods or services do not have;
+(e) represents that the seller or the supplier has a sponsorship or approval or affiliation which such seller or supplier does not have;
+(f) makes a false or misleading representation concerning the need for, or the usefulness of, any goods or services;
+(g) gives to the public any warranty or guarantee of the performance, efficacy or length of life of a product or of any goods that is not based on an adequate or proper test thereof;
+(h) makes to the public a representation in a form that purports to be—
+(A) a warranty or guarantee of a product or of any goods or services; or
+(B) a promise to replace, maintain or repair an article or any part thereof or to repeat or continue a service until it has achieved a specified result,
+if such purported warranty or guarantee or promise is materially misleading or if there is no reasonable prospect that such warranty, guarantee or promise will be carried out;
+(i) materially misleads the public concerning the price at which a product or like products or goods or services, have been or are, ordinarily sold;
+(j) gives false or misleading facts disparaging the goods, services or trade of another person.

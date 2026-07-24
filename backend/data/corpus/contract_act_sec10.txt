@@ -1,0 +1,8 @@
+---
+doc_id: contract_act_sec10
+citation: Indian Contract Act, 1872, Section 10
+source_type: bare_act
+source_url: https://www.indiacode.nic.in/show-data?actid=AC_CEN_3_20_00035_187209_1523268996428&sectionId=38613&sectionno=10&orderno=10
+---
+10. What agreements are contracts.—All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void.
+Nothing herein contained shall affect any law in force in India and not hereby expressly repealed by which any contract is required to be made in writing or in the presence of witnesses, or any law relating to the registration of documents.

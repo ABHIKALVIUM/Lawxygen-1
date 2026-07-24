@@ -1,0 +1,12 @@
+---
+doc_id: shreya_singhal_2015
+citation: (2015) 5 SCC 1
+source_type: judgment
+source_url: https://indiankanoon.org/doc/110813550/
+---
+Shreya Singhal vs Union Of India
+Section 66A of the Information Technology Act, 2000 is struck down in its entirety being violative of Article 19(1)(a) and not saved under Article 19(2).
+The expressions used in Section 66A are completely open-ended and undefined. The word "grossly offensive" or "menacing" is not defined. What may be offensive to one may not be offensive to another. What may cause annoyance or inconvenience to one may not cause annoyance or inconvenience to another. Even the expression "persistently" is completely imprecise.
+Section 66A takes within its sweep protected speech and speech that is innocent in nature and is liable therefore to be used in such a way as to have a chilling effect on free speech and would, therefore, have to be struck down on the ground of overbreadth.
+Information that may be grossly offensive or which causes annoyance or inconvenience are undefined terms which take into the net a very large amount of protected and innocent speech. A person may discuss or even advocate by means of writing disseminate information that may be grossly offensive or which causes annoyance or inconvenience, but as long as it does not incite to violence, it cannot be curtailed under Article 19(2).
+Section 69A and the Information Technology (Procedure and Safeguards for Blocking for Access of Information by Public) Rules 2009 are constitutionally valid.

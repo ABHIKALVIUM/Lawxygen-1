@@ -1,0 +1,15 @@
+---
+doc_id: companies_act_sec2_68
+citation: Companies Act, 2013, Section 2(68)
+source_type: bare_act
+source_url: https://www.indiacode.nic.in/show-data?actid=AC_CEN_22_29_00008_201318_1517807327856&sectionId=24151&sectionno=2&orderno=2
+---
+2(68) "private company" means a company having a minimum paid-up share capital as may be prescribed, and which by its articles,—
+(i) restricts the right to transfer its shares;
+(ii) except in case of One Person Company, limits the number of its members to two hundred:
+Provided that where two or more persons hold one or more shares in a company jointly, they shall, for the purposes of this clause, be treated as a single member:
+Provided further that—
+(A) persons who are in the employment of the company; and
+(B) persons who, having been formerly in the employment of the company, were members of the company while in that employment and have continued to be members after the employment ceased,
+shall not be included in the number of members; and
+(iii) prohibits any invitation to the public to subscribe for any securities of the company;
