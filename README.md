@@ -3,6 +3,8 @@
 A production-quality AI legal co-counsel web app built for Indian lawyers and law students. 
 This repository contains **Section 1** of the assignment (Full-Stack Web App).
 
+Deploy Link: https://lawxygen-fe.vercel.app
+
 ---
 
 ## 🏗 Architecture & Tech Stack Justification
